@@ -1,0 +1,15 @@
+
+[1mFrom:[0m /home/nitrous/code/labs/simple-nesting-001-prework-web/spec/nested_spec.rb @ line 18 :
+
+    [1;34m13[0m:   describe [31m[1;31m"[0m[31m#alan_kay_is_known_for[1;31m"[0m[31m[0m [32mdo[0m
+    [1;34m14[0m:     it [31m[1;31m"[0m[31moperates on the programmer_hash and returns the value of what Alan Kay is known for[1;31m"[0m[31m[0m [32mdo[0m
+    [1;34m15[0m:       expect(alan_kay_is_known_for).to eq([31m[1;31m"[0m[31mObject Orientation[1;31m"[0m[31m[0m)
+    [1;34m16[0m:     [32mend[0m
+    [1;34m17[0m:   [32mend[0m
+ => [1;34m18[0m:   binding.pry
+    [1;34m19[0m:   describe [31m[1;31m"[0m[31m#dennis_ritchies_language[1;31m"[0m[31m[0m [32mdo[0m
+    [1;34m20[0m:     it [31m[1;31m"[0m[31moperates on the programmer_hash and returns the value of Dennis Ritchie's language as a string[1;31m"[0m[31m[0m [32mdo[0m
+    [1;34m21[0m:       expect(dennis_ritchies_language).to eq([31m[1;31m"[0m[31mC[1;31m"[0m[31m[0m)
+    [1;34m22[0m:     [32mend[0m
+    [1;34m23[0m:   [32mend[0m
+
